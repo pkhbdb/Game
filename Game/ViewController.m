@@ -15,6 +15,8 @@
 {
     [super viewDidLoad];
 
+    // this is a test
+    
     // Configure the view.
     SKView * skView = (SKView *)self.view;
     skView.showsFPS = YES;
